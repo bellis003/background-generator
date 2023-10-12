@@ -77,5 +77,3 @@ if failed_images:
     for image in failed_images:
         print(image)
 
-print('hi')
-
